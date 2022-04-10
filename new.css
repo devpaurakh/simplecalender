@@ -1,0 +1,13 @@
+.list{
+    list-style: none;
+    text-align: center;
+
+}
+.link{
+    display: inline-block;
+    justify-content: space-between;
+    text-decoration: none;
+    margin-block: 2px;
+    position: relative;
+
+}
